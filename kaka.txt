@@ -1,2 +1,4 @@
 edad  = 21
 nombre = jose
+
+en camara parece alto, pero en realidad no esta tan alto. 
